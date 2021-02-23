@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "blko68pg0UVNIbSvuSfzX0OtxdC2SoAVOeMYom/OBmT0OiTzVlRK5qC6CTx2GUUUCb2VGQZudba/S7N8jsjBiQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\GABRIEL\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\SleepCapsule\\SleepCapsule.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\GABRIEL\\.nuget\\packages\\tmodloader.codeassist\\0.1.1\\tmodloader.codeassist.0.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}

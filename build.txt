@@ -1,0 +1,4 @@
+displayName = Sleep Capsule
+author = Varollo
+version = 1.0
+homepage = https://varollo.github.io
